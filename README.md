@@ -1,5 +1,5 @@
 # Ambiente Laravel (config inicial) (testado em Ubuntu 16.04 LTS e 18.04 LTS)
-# Link instalação NetInstall do Ubuntu
+# Link instalação NetInstall do Ubuntu 16.04 LTS
 http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/installer-amd64/current/images/netboot/mini.iso
 
 O script será responsável  pela instalação do Mysql, PHP, PHPMyAdmin, Openssh, Composer, Redis.
